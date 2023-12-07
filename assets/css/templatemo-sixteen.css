@@ -567,7 +567,14 @@ header .navbar {
 	overflow-y: auto;
 	max-height: 72px;
 }
+.product-item .down-content #addbucket {
+	color: #000000;
+	margin-left: 10px;
+}
 
+.product-item .down-content ul{
+	display: inline;
+}
 .product-item .down-content ul li {
 	display: inline-block;
 }
