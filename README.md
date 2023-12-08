@@ -5,3 +5,5 @@
 ### notlar
 
 #### urunlerim sayfasında sepete ekle secenegi eklendi
+
+##### hakkımızda kısmının altına bir navbar kısmı geldi. Hakkımızda sayfası düzenleniyor

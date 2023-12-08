@@ -137,6 +137,44 @@ a.filled-button:hover {
   color: #fff;
 }
 
+
+nav ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+  }
+  
+  nav ul li {
+	position: relative;
+	display: inline-block;
+  }
+  
+  nav ul li a {
+	display: block;
+	padding: 10px 15px;
+	text-decoration: none;
+	color: #7c1414;
+  }
+  
+  nav ul ul {
+	display: none;
+	position: absolute;
+	top: 100%;
+	left: 0;
+	background-color: #d7cfcf;
+  }
+  
+  nav ul ul li {
+	display: block;
+  }
+  
+  nav ul li:hover > ul {
+	display: block;
+  }
+  
+
+
+
 #preloader .jumper {
   left: 0;
   top: 0;
@@ -790,6 +828,7 @@ header .navbar {
   
   .footer-section p {
 	margin-bottom: 10px;
+	color: #f7f7f7;
   }
   
   .footer-section ul {
