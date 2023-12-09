@@ -7,3 +7,5 @@
 #### urunlerim sayfasında sepete ekle secenegi eklendi
 
 ##### hakkımızda kısmının altına bir navbar kısmı geldi. Hakkımızda sayfası düzenleniyor
+
+##### hakkımızda kısmı tamamlandı, iletişim sayfası düzenleniyor
