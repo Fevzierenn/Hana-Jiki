@@ -99,8 +99,90 @@ a.filled-button:hover {
 }
 
 .contact-heading {
-	background-image: url(../images/contact-heading.jpg);
+	background-image: url(../logos/contact.jpg);
 }
+.bucket-heading{
+	background-image: url(../logos/alısveris.jpg);
+
+}
+.team-heading{
+	background-image: url(../team/teamGeneral.jpg);
+}
+.vizyon-heading{
+	background-image: url(../images_2/vizyon.jpg);
+}
+
+.sepetGenel{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+}
+.sepet-ozet{
+	width: auto;
+	height: 100px;
+	background-color: #f2eeee;
+	margin-right: 40px;
+	padding: 20px;
+	border-radius: 20px;
+}
+
+.sepet-icerik{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: start;
+}
+.sepetUrun{
+	display: flex;
+  	align-items: center;
+  	margin: 20px 50px;
+	background-color: #fcfcfc;
+	padding: 10px;
+	border-radius: 5px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	width: 900px;
+	height: 170px;
+}
+
+.sepetUrun img {
+	width: 150px;
+	height: 150px;
+	margin-right: 20px;
+	border-radius: 10px;
+  }
+
+  .urun-bilgileri {
+	flex: 1;
+	margin: 4px;
+  }	
+  .sepetUrun button{
+	margin: 5px;
+  }	
+  .urun-bilgileri h3 {
+	margin: 0;
+	font-size: 18px;
+	color: #333;
+	margin-top: 10px;
+  }
+  .urun-bilgileri input {
+	
+	width: 40px;
+	height: 30px;
+  }	
+  
+  .fiyat {
+	margin: 5px 0;
+	color: #b70b0b;
+  }
+  
+  .adet {
+	padding: 5px;
+	width: 50px;
+	border-radius: 3px;
+	border: 1px solid #ccc;
+  }
 
 .page-heading {
 	padding: 210px 0px 130px 0px;
@@ -963,7 +1045,11 @@ footer .inner-content p a {
 
 .team-member img {
 	width: 100%;
+	height: 300px;
 	overflow: hidden;
+	border: 1px solid black;
+	border-radius: 20px;
+	
 }
 
 .team-member .down-content {
@@ -1138,8 +1224,8 @@ footer .inner-content p a {
 	height: 44px;
 	display: inline-block;
 	line-height: 42px;
-	border: 1px solid #eee;
-	border-radius: 0px;
+	border: 1px solid #120b0b;
+	border-radius: 5px;
 	margin-bottom: 30px;
 }
 
@@ -1155,8 +1241,8 @@ footer .inner-content p a {
 	min-height: 120px;
 	height: 120px;
 	max-height: 180px;
-	border: 1px solid #eee;
-	border-radius: 0px;
+	border: 1px solid #020202;
+	border-radius: 5px;
 	margin-bottom: 30px;
 }
 
@@ -1178,6 +1264,9 @@ footer .inner-content p a {
 	border: none;
 	outline: none;
 	cursor: pointer;
+	width: 50%;
+	max-width: 400px;
+	margin-left: 190px;
 }
 
 .contact-form button.filled-button:hover {
