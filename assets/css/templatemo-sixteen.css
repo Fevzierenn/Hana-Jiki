@@ -111,6 +111,9 @@ a.filled-button:hover {
 .vizyon-heading{
 	background-image: url(../images_2/vizyon.jpg);
 }
+.nedenbiz-heading{
+	background-image: url(../images_2/japanese.jpg);
+}
 
 .sepetGenel{
 	display: flex;
