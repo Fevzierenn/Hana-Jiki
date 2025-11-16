@@ -1,13 +1,31 @@
-# Hana Jiki Japon işi porselen
+# Hana-Jiki – Japanese Style Porcelain Website  
+A front-end web project developed for the Web Programming course.
 
-## Web programlama dersi projesi
+## 📌 Overview
+Hana-Jiki is a modern, clean, and minimalistic website designed to showcase Japanese-style porcelain products.  
+The project simulates a small e-commerce interface where users can browse products, view information pages, and interact with a basic shopping cart UI.
 
-### notlar
+This project was created as part of a university Web Programming assignment.
 
-#### urunlerim sayfasında sepete ekle secenegi eklendi
+---
 
-##### hakkımızda kısmının altına bir navbar kısmı geldi. Hakkımızda sayfası düzenleniyor
+## ✨ Features
+- Dedicated **Products** page with “Add to Cart” functionality  
+- Fully structured **About Us**, **Vision & Mission**, **Team**, and **Contact** pages  
+- A simple **Cart** page layout  
+- Custom navigation bar integrated into all major pages  
+- Asset-based file structure for organized development  
+- Clean HTML, CSS, and JavaScript without frameworks  
+- Prepros configuration included for optional SCSS/JS preprocessing  
 
-##### hakkımızda kısmı tamamlandı, iletişim sayfası düzenleniyor
+---
 
-##### iletişim sayfası, sepetim sayfası, ekibimiz, vizyon ve misyon sayfaları tamamlandı.
+## 🛠️ Tech Stack
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (Vanilla)**  
+- **Prepros** (optional for workflow automation)
+
+---
+
+## 📁 Folder Structure
