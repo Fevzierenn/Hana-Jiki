@@ -28,4 +28,29 @@ This project was created as part of a university Web Programming assignment.
 
 ---
 
-## 📁 Folder Structure
+
+---
+
+## 🚀 Installation & Running the Project
+
+### **1. Clone the Repository**
+```bash
+git clone https://github.com/Fevzierenn/Hana-Jiki.git
+
+cd Hana-Jiki
+
+python3 -m http.server 8000
+
+
+
+🔮 Future Improvements
+
+Fully functional cart system using JavaScript and localStorage
+
+Product detail pages with dynamic content
+
+Fully responsive mobile-first redesign
+
+Backend integration (Node.js, Spring Boot, or Express)
+
+Admin panel for product management
